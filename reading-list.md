@@ -27,3 +27,4 @@
 
 - [ ] http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf
 - [ ] http://csis.pace.edu/~marchese/CS396x/Computing/Ashby.pdf
+- [ ] https://www.jstor.org/stable/184400
