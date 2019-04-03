@@ -1,6 +1,7 @@
 # Organizational Questions
 
 To be diskussed at the first Meetup
+0. What is a cool name for that "Meetup"?
 1. What rythm to follow?
 2. Should the meetup be public?
 3. What preperation?
