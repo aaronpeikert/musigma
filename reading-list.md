@@ -5,7 +5,7 @@
 
 **Paul Meehl**
 - [ ] https://statmodeling.stat.columbia.edu/2015/03/23/paul-meehl-continues-boss/
-- [ ] Meehl, P. (1978) Theoretical Risks and Tabular Asterisks: Sir Karl, Sir Ronald, and the Slow Progress of Soft Psychology.
+- [x] Meehl, P. (1978) Theoretical Risks and Tabular Asterisks: Sir Karl, Sir Ronald, and the Slow Progress of Soft Psychology.
 
 
 **The Triad (from List)**
