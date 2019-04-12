@@ -37,4 +37,5 @@
 - [ ] https://www.philosophie.hu-berlin.de/de/lehrbereiche/logik/lehre/carnap-metaphysik.pdf
 - [ ] https://www.jstor.org/stable/pdf/184479.pdf?casa_token=ObQjVsRTKZUAAAAA:6siUatS24gcgMt2KMEIaY4kiXcpvnXnRdir0S2CL2yV_bkhmVQP-49yRE6EFbRSvbSZFup4jdT3Ubs6ZEPa9O7uFqmwFA7K_xfLsOVNNnveMtFB-7Ncq4w
 *two papers of Carnap, I think we should definitely read meaning and testability as proposed by Aaron, but if we want to read more of Carnap (or facilitate the understanding) those papers could be worth reading. Theye are both more philosophical und explain what the general viewpoint of Carnap on truth and meaning is. The first one is about what meaning is and which designators/sentences have meaning and which seem to have meaning, but do not have. The second one is about Carnaps oppinion that several seemingly difficult questions in philosophy boil down to easy ones if correctly restated in relation to the used language.*
-
+- [ ] https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/ 
+*my favourite blog post of Gelman*
