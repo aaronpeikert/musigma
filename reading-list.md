@@ -1,6 +1,6 @@
 # Tobias
 
-**Philosophy of Statistical Inference and Modeling reading list**
+**Philosophy of Statistical Inference and Modeling reading list**  
 https://errorstatistics.files.wordpress.com/2014/05/fifth-installment-6334-syllabus.pdf
 
 **Paul Meehl**
@@ -22,7 +22,7 @@ https://errorstatistics.files.wordpress.com/2014/05/fifth-installment-6334-sylla
 - [ ] Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. *Foundations of Science, 15*(1), 29-48. https://pdfs.semanticscholar.org/3c14/babe3505d7931792dd2f3b8ddf35a8203e71.pdf
 - [ ] Schönbrodt, F. D., & Perugini, M. (2013). At what sample size do correlations stabilize?. *Journal of Research in Personality, 47*(5), 609-612. https://epub.ub.uni-muenchen.de/17968/1/oa_Schoenbrodt_17968.pdf
 
-**Reproducibility & Replication reading list**
+**Reproducibility & Replication reading list**  
 https://docs.google.com/document/d/1dopRJgO-I8dZBIvtEnftN5wtATGrMseX4mHZM7ePOQw/edit
 - [ ] Meehl, P. E. (1967). Theory-testing in psychology and physics: A methodological paradox. *Philosophy of science, 34*(2), 103-115. https://meehl.dl.umn.edu/sites/g/files/pua1696/f/074theorytestingparadox.pdf
 
