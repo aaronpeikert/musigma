@@ -17,7 +17,7 @@ https://errorstatistics.files.wordpress.com/2014/05/fifth-installment-6334-sylla
 - [ ] Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author). *Statistical science, 16*(3), 199-231. https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
 - [ ] Leamer, E. E. (1983). Let’s take the con out of econometrics. *Modelling Economic Series, 73*, 31-43. https://www.jstor.org/stable/pdf/1803924.pdf
 
-# Alex
+# Aleksandr
 
 - [ ] Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. *Foundations of Science, 15*(1), 29-48. https://pdfs.semanticscholar.org/3c14/babe3505d7931792dd2f3b8ddf35a8203e71.pdf
 - [ ] Schönbrodt, F. D., & Perugini, M. (2013). At what sample size do correlations stabilize?. *Journal of Research in Personality, 47*(5), 609-612. https://epub.ub.uni-muenchen.de/17968/1/oa_Schoenbrodt_17968.pdf
