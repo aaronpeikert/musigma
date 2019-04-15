@@ -28,11 +28,24 @@ https://docs.google.com/document/d/1dopRJgO-I8dZBIvtEnftN5wtATGrMseX4mHZM7ePOQw/
 
 # Aaron
 
+<<<<<<< HEAD
 - [ ] Nannen, V. (2010). A short introduction to model selection, Kolmogorov complexity and Minimum Description Length (MDL). *arXiv preprint arXiv:1005.2364*. http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf
 - [ ] Ashby, W. R. (1991). Principles of the self-organizing system. In *Facets of systems science* (pp. 521-536). Springer, Boston, MA. http://csis.pace.edu/~marchese/CS396x/Computing/Ashby.pdf
 - [ ] Carnap, R. (1936). Testability and meaning. *Philosophy of science, 3*(4), 419-471. https://www.jstor.org/stable/184400
 - [ ] Perlis, A. J. (1982). Special feature: Epigrams on programming. *ACM Sigplan Notices, 17*(9), 7-13. http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html
 
-# Max
+# Maximilian
 
 - [ ] Meehl, P. E. (1990). Appraising and amending theories: The strategy of Lakatosian defense and two principles that warrant it. *Psychological inquiry, 1*(2), 108-141. https://meehl.dl.umn.edu/sites/g/files/pua1696/f/147appraisingamending.pdf
+- [ ] http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf
+- [ ] http://csis.pace.edu/~marchese/CS396x/Computing/Ashby.pdf
+- [ ] https://www.jstor.org/stable/184400
+- [ ] http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html
+- [ ] http://meehl.umn.edu/sites/g/files/pua1696/f/177pathanalysismw2002.pdf
+*i think the last paper of Paul Meehl (despite his follow-up Paper responding to Objections to this Paper), about how to test causal relationships in a net of numerous variables where you do not know if your net could be misspecified at another place, which could lead to wrong conclusions about the effect of interest. His proposed method seemed to never really have been picked up by researchers, despite there is a (rudimental) R-Package*
+- [ ] https://www.philosophie.hu-berlin.de/de/lehrbereiche/logik/lehre/carnap-metaphysik.pdf
+- [ ] https://www.jstor.org/stable/pdf/184479.pdf?casa_token=ObQjVsRTKZUAAAAA:6siUatS24gcgMt2KMEIaY4kiXcpvnXnRdir0S2CL2yV_bkhmVQP-49yRE6EFbRSvbSZFup4jdT3Ubs6ZEPa9O7uFqmwFA7K_xfLsOVNNnveMtFB-7Ncq4w
+*two papers of Carnap, I think we should definitely read meaning and testability as proposed by Aaron, but if we want to read more of Carnap (or facilitate the understanding) those papers could be worth reading. Theye are both more philosophical und explain what the general viewpoint of Carnap on truth and meaning is. The first one is about what meaning is and which designators/sentences have meaning and which seem to have meaning, but do not have. The second one is about Carnaps oppinion that several seemingly difficult questions in philosophy boil down to easy ones if correctly restated in relation to the used language.*
+- [ ] https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/ 
+*my favourite blog post of Gelman*
+
