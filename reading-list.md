@@ -26,7 +26,11 @@ https://errorstatistics.files.wordpress.com/2014/05/fifth-installment-6334-sylla
 
 **Reproducibility & Replication reading list**  
 https://docs.google.com/document/d/1dopRJgO-I8dZBIvtEnftN5wtATGrMseX4mHZM7ePOQw/edit
-- [ ] Meehl, P. E. (1967). Theory-testing in psychology and physics: A methodological paradox. *Philosophy of science, 34*(2), 103-115. https://meehl.dl.umn.edu/sites/g/files/pua1696/f/074theorytestingparadox.pdf
+- [ ] Meehl, P. E. (1967). Theory-testing in psychology and physics: A methodological paradox. *Philosophy of science, 34*(2), 103-115. https://meehl.dl.umn.edu/sites/g/files/pua1696/f/074theorytestingparadox.pdf  
+
+**More lists with suggestions:**  
+https://twitter.com/lastpositivist/status/1120405362157522945  
+http://fitelson.org/confirmation/syllabus.html
 
 # Aaron
 
