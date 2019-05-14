@@ -21,10 +21,16 @@ https://errorstatistics.files.wordpress.com/2014/05/fifth-installment-6334-sylla
 
 - [ ] Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. *Foundations of Science, 15*(1), 29-48. https://pdfs.semanticscholar.org/3c14/babe3505d7931792dd2f3b8ddf35a8203e71.pdf
 - [ ] Schönbrodt, F. D., & Perugini, M. (2013). At what sample size do correlations stabilize?. *Journal of Research in Personality, 47*(5), 609-612. https://epub.ub.uni-muenchen.de/17968/1/oa_Schoenbrodt_17968.pdf
+- [ ] Kretzschmar, A. and Gignac, G. E. (2019). At what sample size do latent variable correlations stabilize?. *Journal of Research in Personality, 80*, pp. 17–22. doi: https://doi.org/10.1016/j.jrp.2019.03.007. Preprint: https://psyarxiv.com/crkd7/download?format=pdf
+- [ ] Schäfer, T., & Schwarz, M. (2019). The meaningfulness of effect sizes in psychological research: Differences between sub-disciplines and the impact of potential biases. *Frontiers in Psychology, 10*, 813.
 
 **Reproducibility & Replication reading list**  
 https://docs.google.com/document/d/1dopRJgO-I8dZBIvtEnftN5wtATGrMseX4mHZM7ePOQw/edit
-- [ ] Meehl, P. E. (1967). Theory-testing in psychology and physics: A methodological paradox. *Philosophy of science, 34*(2), 103-115. https://meehl.dl.umn.edu/sites/g/files/pua1696/f/074theorytestingparadox.pdf
+- [ ] Meehl, P. E. (1967). Theory-testing in psychology and physics: A methodological paradox. *Philosophy of science, 34*(2), 103-115. https://meehl.dl.umn.edu/sites/g/files/pua1696/f/074theorytestingparadox.pdf  
+
+**More lists with suggestions:**  
+https://twitter.com/lastpositivist/status/1120405362157522945  
+http://fitelson.org/confirmation/syllabus.html
 
 # Aaron
 
