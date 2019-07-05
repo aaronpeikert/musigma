@@ -13,9 +13,11 @@ We would like to meet new people with similar interests and thus invite you to j
 
 You can find the protocols of our last meetups and a perspective reading list on [github](https://github.com/aaronpeikert/methods-meetup)
 
-The next paper to be discussed is "A free energy principle for biological systems" by Karl Friston1, which is often regarded as a key question for artificial intelligence. Reading a paper is a pre-requisite in order everyone can add something to discussion, although you surely don't have to understand all the technicalities.
+The next paper to be discussed is "A free energy principle for biological systems" by Karl Friston [1], which is often regarded as a key question for artificial intelligence. Reading a paper is a pre-requisite in order everyone can add something to discussion, although you surely don't have to understand all the technicalities.
 
 Feel free to show up and join our discussion! You should have basic knowledge of statistics, but our members come from different backgrounds, ranging from philosophy and psychology over to computer science and mathematics. It also doesn't matter if you are still a student, already working in business or writing your PhD - we welcome everyone! If you have any questions, just contact us in our [Telegram group](http://t.me/mu_sigma).
 
 Cheers,
 Mu Sigma Society
+
+1. 1.	Karl, F. (2012).  A free energy principle for biological systems. *Entropy, 14*(11), 2100-2121. https://doi.org/10.3390/e14112100
