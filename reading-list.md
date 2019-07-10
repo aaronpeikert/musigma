@@ -41,7 +41,8 @@ http://fitelson.org/confirmation/syllabus.html
 - [ ] Borsboom, D., Mellenbergh, G. J., & Van Heerden, J. (2003). The theoretical status of latent variables. *Psychological review, 110*(2), 203.
 - [ ] Borsboom, D., Mellenbergh, G. J., & van Heerden, J. (2004). The Concept of Validity. *Psychological Review, 111*(4), 1061-1071.
 http://dx.doi.org/10.1037/0033-295X.111.4.1061
-- [ ] Tukey, John W. The Future of Data Analysis. *Ann. Math. Statist. 33* (1962), no. 1, 1--67. doi:10.1214/aoms/1177704711. https://projecteuclid.org/euclid.aoms/1177704711
+- [x] Tukey, John W. The Future of Data Analysis. *Ann. Math. Statist. 33* (1962), no. 1, 1--67. doi:10.1214/aoms/1177704711. https://projecteuclid.org/euclid.aoms/1177704711
+- [ ] Simon H.A. (1983) Why Should Machines Learn?. In: Michalski R.S., Carbonell J.G., Mitchell T.M. (eds) *Machine Learning. Symbolic Computation.* Springer, Berlin, Heidelberg https://doi.org/10.1007/978-3-662-12405-5_2
 
 
 # Maximilian
