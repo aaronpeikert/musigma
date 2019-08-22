@@ -16,6 +16,7 @@ https://errorstatistics.files.wordpress.com/2014/05/fifth-installment-6334-sylla
 **Other**
 - [ ] Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author). *Statistical science, 16*(3), 199-231. https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
 - [ ] Leamer, E. E. (1983). Let’s take the con out of econometrics. *Modelling Economic Series, 73*, 31-43. https://www.jstor.org/stable/pdf/1803924.pdf
+- [x] Hodges, J. S. (2019). Statistical methods research done as science rather than mathematics. *arXiv preprint arXiv:1905.08381*.
 
 # Aleksandr
 
