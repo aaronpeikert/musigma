@@ -16,7 +16,7 @@ If you have any further questions and/or might like to join us, please read the 
 
 ## FAQ
 - [**How can I contact you?**](#how-can-i-contact-you)
-- [**How can I attend your meetup**](#how-can-i-attend-your-meetup)
+- [**How can I attend your meetup?**](#how-can-i-attend-your-meetup)
 - [**What background should I have to participate?**](#what-background-should-i-have-to-participate)
 - [**Does Mu Sigma have a focus on any field?**](#does-mu-sigma-have-a-focus-on-any-field)
 - [**Is this another ML or AI meetup?**](#is-this-another-ml-or-ai-meetup)
