@@ -35,7 +35,7 @@ http://fitelson.org/confirmation/syllabus.html
 
 # Aaron
 
-- [ ] Friston, K. J. (2012). A free energy principle for biological systems. *Entropy*, *14*(11), 2100-2121.
+- [x] Friston, K. J. (2012). A free energy principle for biological systems. *Entropy*, *14*(11), 2100-2121.
 - [ ] Nannen, V. (2010). A short introduction to model selection, Kolmogorov complexity and Minimum Description Length (MDL). *arXiv preprint arXiv:1005.2364*. http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf
 - [ ] Ashby, W. R. (1991). Principles of the self-organizing system. In *Facets of systems science* (pp. 521-536). Springer, Boston, MA. http://csis.pace.edu/~marchese/CS396x/Computing/Ashby.pdf
 - [ ] Carnap, R. (1936). Testability and meaning. *Philosophy of science, 3*(4), 419-471. https://www.jstor.org/stable/184400
