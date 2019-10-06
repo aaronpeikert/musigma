@@ -9,7 +9,7 @@ https://errorstatistics.files.wordpress.com/2014/05/fifth-installment-6334-sylla
 
 
 **The Triad (from List)**
-- [ ] Fisher (1955), Statistical Methods and Scientific Induction, J R Stat Soc (B) 17: 69-78.
+- [x] Fisher (1955), Statistical Methods and Scientific Induction, J R Stat Soc (B) 17: 69-78.
 - [ ] Pearson (1955). Statistical Concepts in Their Relation to Reality, J R Stat Soc (B) 17: 204-207. 
 - [ ] Neyman (1956). Note on an Article by Sir Ronald Fisher, J R Stat Soc (B) 18: 288-294.
 
