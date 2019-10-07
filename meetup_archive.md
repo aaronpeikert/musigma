@@ -8,7 +8,7 @@ Below is the overview of the meetups that we had previously. Note that the meeti
 
 ### 2019-08-21
 * Hodges, J. S. (2019). Statistical methods research done as science rather than mathematics. *arXiv preprint arXiv:1905.08381*.
-* [Link to protocol](protocols/2019-08-21.md)
+* [Link to protocol](protocols/2019-08-21_protocol.md)
 
 ### 2019-07-31
 * Fisher, R. (1955). Statistical methods and scientific induction. *Journal of the Royal Statistical Society: Series B (Methodological)*, *17*(1), 69-78.
