@@ -21,6 +21,7 @@ https://errorstatistics.files.wordpress.com/2014/05/fifth-installment-6334-sylla
 # Aleksandr
 
 - [x] Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. *Foundations of Science, 15*(1), 29-48. https://pdfs.semanticscholar.org/3c14/babe3505d7931792dd2f3b8ddf35a8203e71.pdf
+- [ ] Collingwood, R. G. (1937, January). On the so-called idea of causation. *In Proceedings of the Aristotelian society* (Vol. 38, pp. 85-112). Aristotelian Society, Wiley.
 - [ ] Schönbrodt, F. D., & Perugini, M. (2013). At what sample size do correlations stabilize?. *Journal of Research in Personality, 47*(5), 609-612. https://epub.ub.uni-muenchen.de/17968/1/oa_Schoenbrodt_17968.pdf
 - [ ] Kretzschmar, A. and Gignac, G. E. (2019). At what sample size do latent variable correlations stabilize?. *Journal of Research in Personality, 80*, pp. 17–22. doi: https://doi.org/10.1016/j.jrp.2019.03.007. Preprint: https://psyarxiv.com/crkd7/download?format=pdf
 - [ ] Schäfer, T., & Schwarz, M. (2019). The meaningfulness of effect sizes in psychological research: Differences between sub-disciplines and the impact of potential biases. *Frontiers in Psychology, 10*, 813.
