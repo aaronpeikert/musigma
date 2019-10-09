@@ -24,7 +24,7 @@ If you have any further questions and/or might like to join us, please read the 
 - [**Which programming language do you work with?**](#which-programming-language-do-you-work-with)
 - [**Are you guys bayesians or frequentists? Data or algorithmic modelling?**](#are-you-guys-bayesians-or-frequentists-data-or-algorithmic-modelling)
 - [**Do I need to read the paper before attending the meetup?**](#do-i-need-to-read-the-paper-before-attending-the-meetup)
-- [**Why do you called Mu Sigma?**](#why-do-you-called-mu-sigma)
+- [**Why are you called Mu Sigma?**](#why-are-you-called-mu-sigma)
 
 #### How can I contact you?
 To contact us, feel free to write us a message on musigma.berlin@gmail.com or in [our public Telegram group](https://t.me/mu_sigma).
@@ -54,5 +54,5 @@ Again, we prefer not to go for a *single* approach but rather discuss them all t
 #### Do I need to read the paper before attending the meetup?
 Yes, the discussion of paper is an important part of our meetup, so everyone should at least skim through the paper beforehand. However, it is not expected from everyone to understand in details the technicalities of every paper.
 
-#### Why do you called Mu Sigma?
+#### Why are you called Mu Sigma?
 We didn't want to go with yet another typical name like "Berlin Data Science Meetup" and decided to pick something unique instead. We have chosen those two Greek letters just because they are often met in statistics (the population mean and variance, respectively) and sound good in combination. Apart from that, there's no additional meaning to the name to our society.
