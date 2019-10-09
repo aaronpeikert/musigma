@@ -16,29 +16,34 @@ If you have any further questions and/or might like to join us, please read the 
 
 ## FAQ
 - [**How can I contact you?**](#how-can-i-contact-you)
-- [**How can I attend your meetup?**](#how-can-i-attend-your-meetup)
+- [**How and where can I attend your meetup?**](#how-and-where-can-i-attend-your-meetup)
 - [**What background should I have to participate?**](#what-background-should-i-have-to-participate)
 - [**Does Mu Sigma have a focus on any field?**](#does-mu-sigma-have-a-focus-on-any-field)
 - [**Is this another ML or AI meetup?**](#is-this-another-ml-or-ai-meetup)
+- [**Do you organize anything else except the meetups?**](#do-you-organize-anything-else-except-the-meetups)
 - [**Which programming language do you work with?**](#which-programming-language-do-you-work-with)
 - [**Are you guys bayesians or frequentists? Data or algorithmic modelling?**](#are-you-guys-bayesians-or-frequentists-data-or-algorithmic-modelling)
 - [**Do I need to read the paper before attending the meetup?**](#do-i-need-to-read-the-paper-before-attending-the-meetup)
 - [**Why do you called Mu Sigma?**](#why-do-you-called-mu-sigma)
 
 #### How can I contact you?
-To contact us, feel free to speak up in [our public Telegram group](https://t.me/mu_sigma) or write us an Email on .
+To contact us, feel free to write us a message on musigma.berlin@gmail.com or in [our public Telegram group](https://t.me/mu_sigma).
 
-#### How can I attend your meetup?
-Please contact us on Telegram or via Email and do a short introduction of yourself. After getting to know you, we will tell you the location of our next meetup. The attendance is free of charge.
+#### How and where can I attend your meetup?
+Please contact us on Telegram or via Email and do a short introduction of yourself. After getting to know you, we will tell you the location of our next meetup. We don't publish the place we meet beforehand but it is normally in the central areas of Berlin.  
+The attendance is free of charge.
 
 #### What background should I have to participate?
-To be able to follow the discussion, attendees are expected to have at least some knowledge of statistics, programming, and mathematics (college undergrad level should generally suffice). Apart from that, we don't have any special requirements except willingnes to participate and learn actively. 
+To be able to follow the discussion, attendees are expected to have at least some knowledge of statistics, programming, and mathematics. A solid college undergrad level should generally suffice, although some papers often go way above these knowledge. Apart from that, we don't have any special requirements except willingnes to participate and learn actively.
 
 #### Does Mu Sigma have a focus on any field?
-It is necessary to note that Mu Sigma was founded by students of psychology, sociology, and economics, among others. Thus, there is a slight focus on application of statistical methods in behavioral sciences. Nevertheless, we sometimes discuss papers from other fields and/or "general" statistics. 
+It is necessary to note that Mu Sigma was founded by students of psychology, sociology, and economics, among others. Thus, there is a slight focus on application of statistical methods in behavioral sciences. Nevertheless, we sometimes discuss papers from other fields, such as biology or physics, and/or "general" statistics. 
 
 #### Is this another ML or AI meetup?
-Except the point stated above, we do not position ourselves as a meetup that is about particular school of methods. We rather look *how* to use *all* available methods and tools in order to get the necessary results in data science. We are also not a "meetup" in the classical sense and do not organize networking or hiring events. But of course there's always a chance that you meet someone who helps you in your professional career later.
+Except the point stated above, we do not position ourselves as a meetup that is about particular school of methods. We rather look *how* to use *all* available methods and tools in order to get the necessary results in data science. We are also not a "meetup" in the classical sense and do not organize networking or hiring events (yet). Nevertheless, there's always a chance that you meet someone who helps you in your professional career later.
+
+#### Do you organize anything else except the meetups?
+So far the regular meetings are the only thing we organize right now. In perspective, we might expand our activities to inviting speakers, providing education, doing collective projects, and so on. If you have any suggestions or offers, don't hesitate to contact us.
 
 #### Which programming language do you work with?
 There is no single programming language required. As far as our last meetups are concerned, most of the participants work either in R or Python.
@@ -50,4 +55,4 @@ Again, we prefer not to go for a *single* approach but rather discuss them all t
 Yes, the discussion of paper is an important part of our meetup, so everyone should at least skim through the paper beforehand. However, it is not expected from everyone to understand in details the technicalities of every paper.
 
 #### Why do you called Mu Sigma?
-We didn't want to go with yet another typical name like "Berlin Data Science Meetup" and decided to pick something unique instead. We have chosen those two Greek letters just because they are often met in statistics (the population mean and variance, respectively) and sound good in combination. Apart from that, there's no additional meaning in the name of our society.
+We didn't want to go with yet another typical name like "Berlin Data Science Meetup" and decided to pick something unique instead. We have chosen those two Greek letters just because they are often met in statistics (the population mean and variance, respectively) and sound good in combination. Apart from that, there's no additional meaning to the name to our society.
