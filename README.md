@@ -11,7 +11,11 @@ The discussions in our meetings have a rather broad scope but mainly revolve aro
 * Ongoing replicability crisis (especially in social sciences)
 * Technicalities of particular statistical methods and/or software
 
-A good way to understand what Mu Sigma is about is to check out the papers and the protocols of our last meetings. The list of the papers we've already read is available in [our meetup archive](meetup_archive.md). The list of papers proposed to read in future is available [here](reading-list.md). The protocols or our meetings are available in the [following folder](/protocols).  
+A good way to understand what Mu Sigma is about is to check out the papers and the protocols of our last meetings:
+* The list of the papers we've already read is available in [our meetup archive](meetup_archive.md)
+* The list of papers proposed to read in the future is available [here](reading-list.md)
+* The detailed protocols or our meetings are available in the [following folder](/protocols)  
+
 If you have any further questions and/or might like to join us, please read the frequently asked questions (FAQ) below.
 
 ## FAQ
