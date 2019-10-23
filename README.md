@@ -20,6 +20,7 @@ If you have any further questions and like to join us, please read the frequentl
 
 ## FAQ
 - [**How can I contact you?**](#how-can-i-contact-you)
+- [**What is your timetable?**](#what-is-your-timetable)
 - [**How and where can I attend your meetup?**](#how-and-where-can-i-attend-your-meetup)
 - [**What background should I have to participate?**](#what-background-should-i-have-to-participate)
 - [**Does Mu Sigma have a focus on any field?**](#does-mu-sigma-have-a-focus-on-any-field)
@@ -32,6 +33,10 @@ If you have any further questions and like to join us, please read the frequentl
 
 #### How can I contact you?
 To contact us, feel free to write us a message on musigma.berlin@gmail.com or in [our public Telegram group](https://t.me/mu_sigma).
+
+#### What is your timetable?
+
+We meet every two weeks usually Wednesday with a soft start at 18:30 and hard start 19:00. We do a poll about what to read beginning Friday after the last meeting, its results are announced on the following Monday. We will send a reminder the Monday before the meetup. *If you are confused now, recheck this document, the next meeting is at the beginning*.
 
 #### How and where can I attend your meetup?
 Please contact us on Telegram or via Email and do a short introduction of yourself. After getting to know you, we will tell you the location of our next meetup. We don't publish the place we meet beforehand, but it usually is in the central areas of Berlin.  
