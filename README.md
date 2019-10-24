@@ -29,6 +29,7 @@ If you have any further questions and like to join us, please read the frequentl
 - [**Which programming language do you work with?**](#which-programming-language-do-you-work-with)
 - [**Are you guys bayesians or frequentists? Data or algorithmic modelling?**](#are-you-guys-bayesians-or-frequentists-data-or-algorithmic-modelling)
 - [**Do I need to read the paper before attending the meetup?**](#do-i-need-to-read-the-paper-before-attending-the-meetup)
+- [**How do I propose to read a paper?**](#how-do-i-propose-to-read-a-paper)
 - [**Why are you called Mu Sigma?**](#why-are-you-called-mu-sigma)
 
 #### How can I contact you?
@@ -62,6 +63,17 @@ Again, we prefer not to go for a *single* approach but rather discuss them all t
 
 #### Do I need to read the paper before attending the meetup?
 Yes, the discussion of paper is an integral part of our meetup, so everyone should at least skim through the document beforehand. However, you are not expected to understand in details the technicalities of every paper.
+
+#### How do I vote/propose to read a paper?
+We vote over the weekend after the last meetup via [Telegram](https://t.me/mu_sigma) on the [proposals found here](proposals.md). To propose a paper add a new file in the [proposals folder](proposals/) named `[first-author]-[year]-[keyword1_keyword2_..._keyword5].md` (of course, via github pull request, we'll promise to include every proper proposal). Before the vote, we  rebuild [proposals.md](proposals.md) via `make` which will include your proposal in the main file. From time to time, we move longtime unaccepted proposals into the [archive](proposoals/archive/) folder. Your proposal should include concise answers to these questions:
+
+* What is the topic?
+* Why is the topic of the paper interesting to the group?
+* Why is this exact paper/medium the best for this topic?
+* How much preparation time is needed? (If it is >1h, provide an idea of how to tackle it [skimming, over multiple meetups, preparing a presentation, etc.])
+* Provide a **frictionless** way to access the medium (provide APA citation, DOI, link or similar).
+
+Take a look at the existing proposal and use the them as a template. *Provide a correct YAML-header.*
 
 #### Why are you called Mu Sigma?
 We didn't want to go with yet another common name like "Berlin Data Science Meetup" and decided to pick something unique instead. We have chosen those two Greek letters just because they are often met in statistics (the population mean and variance, respectively) and sound good in combination. Apart from that, there's no additional meaning to the name of our society.
