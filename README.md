@@ -2,6 +2,14 @@
 
 ![logo](https://vectr.com/axmrk/ae6QlyRhy.png?width=280&height=280&select=a7XSU8mK8&quality=1&source=page)
 
+## Next meeting
+* Date and time: **30.10.2019**, Wednesday. Soft start at 18:30, hard start at 19:00.  
+* Place: DSR  
+* Paper: [Inferring causation from time series in Earth system sciences (Runge, 2019)](https://doi.org/10.1038/s41467-019-10105-3), see [proposals](proposals.md) for the detailed description.  
+* Notes: First meetup after the semester break.  
+
+## Mu Sigma
+
 Mu Sigma is a group of people that are highly interested in the theory and application of statistical science. It has been organized by several students and alumni of Humboldt University since the spring of 2019. We now have members of different expierences and backgrounds, including leading data scientist from several Berlin companies. The main goal of Mu Sigma is to gain a better understanding of statistics by bringing motivated people together, sharing our experience, and working through papers or other sources of information.
 
 The discussions in our meetings have a rather broad scope but mainly revolve around the following topics:
