@@ -1,6 +1,6 @@
 ---
 title: More Causal Inference with Graphical Models in R Package pcalg
-author: Kalisch, M., Mächler, M., Colombo, D., Hauser, A., Maathuis, M. H., & Bühlmann, P.
+author: Kalisch, M., MÃ¤chler, M., Colombo, D., Hauser, A., Maathuis, M. H., & BÃ¼hlmann, P.
 year: 2014
 format: paper
 abstract: |
