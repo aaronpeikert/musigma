@@ -28,8 +28,8 @@ parse_entry <- function(file, file_name){
   str_c(title, "\n\n", file$body, appendix)
 }
 
-file_names <- dir_ls(here("proposals"))
-files <- dir_map(here("proposals"), read_file) %>% 
+file_names <- dir_ls(here("proposals"), type = "file")
+files <- dir_map(here("proposals"), read_file, type = "file") %>% 
   str_split("\n") %>% 
   map(split_yaml)
 
