@@ -3,13 +3,11 @@
 ![logo](https://vectr.com/axmrk/ae6QlyRhy.png?width=280&height=280&select=a7XSU8mK8&quality=1&source=page)
 
 ## Next meeting
-* Date and time: **30.10.2019**, Wednesday. Soft start at 18:30, hard start at 19:00.  
+* Date and time: **13.11.2019**, Wednesday. Soft start at 18:30, hard start at 19:00.  
 * Place: DSR  
-* Paper: [Inferring causation from time series in Earth system sciences (Runge, 2019)](https://doi.org/10.1038/s41467-019-10105-3), see [proposals](proposals.md) for the detailed description.  
-* Notes: First meetup after the semester break.  
+* Paper: [A Short Introduction to Model Selection, Kolmogorov Complexity and Minimum Description Length (MDL) (Nannen, 2003)](http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf), also see [the proposal](/proposals/nannen-mdl.md).  
 
 ## Mu Sigma
-
 Mu Sigma is a group of people that are highly interested in the theory and application of statistical science. It has been organized by several students and alumni of Humboldt University since the spring of 2019. We now have members of different expierences and backgrounds, including leading data scientist from several Berlin companies. The main goal of Mu Sigma is to gain a better understanding of statistics by bringing motivated people together, sharing our experience, and working through papers or other sources of information.
 
 The discussions in our meetings have a rather broad scope but mainly revolve around the following topics:
@@ -37,7 +35,7 @@ If you have any further questions and like to join us, please read the frequentl
 - [**Which programming language do you work with?**](#which-programming-language-do-you-work-with)
 - [**Are you guys bayesians or frequentists? Data or algorithmic modelling?**](#are-you-guys-bayesians-or-frequentists-data-or-algorithmic-modelling)
 - [**Do I need to read the paper before attending the meetup?**](#do-i-need-to-read-the-paper-before-attending-the-meetup)
-- [**How do I propose to read a paper?**](#how-do-i-propose-to-read-a-paper)
+- [**How do I vote/propose to read a paper?**](#how-do-i-votepropose-to-read-a-paper)
 - [**Why are you called Mu Sigma?**](#why-are-you-called-mu-sigma)
 
 #### How can I contact you?
