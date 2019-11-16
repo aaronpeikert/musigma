@@ -14,6 +14,18 @@ Format: paper
 
 [Link to proposal](proposals/causal-inference-R-pcalg.md)
 
+### [Understanding Deep Learning Requires Rethinking Generalization (Zhang Bengio Hardt Recht Vinyals, 2017)](https://arxiv.org/pdf/1611.03530.pdf)
+
+This paper is a follow up upon th MDL-Principle paper because it extens our discussion of complexity of models but moves beyond any classical models onto deep neural networks. They end with „In this work we presented a simple experimental framework for defining and understanding a notion of effective capacity of machine learning models.“ It is mainly authored by Google but the style is not to tecnical instead it is concise and easy to digest. It won the best paper award at ICLR 2017.
+
+Reading time: 30min
+
+Format: paper
+
+[Link to paper](https://arxiv.org/pdf/1611.03530.pdf)
+
+[Link to proposal](proposals/deep-learning-generlization.md)
+
 ### [A Visual Exploration of Gaussian Processes (Görtler, Kehlbeck, Deussen, 2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 Gaussian processes are essential as a tool in modelling. Deepening the understanding may prove to be extraordinarily usefull beyond their application in regression. Distill is a journal that is famous for their didactive style. This paper allows interactive exploration and experimentation, which makes it ideal for a first introduction.
@@ -25,15 +37,3 @@ Format: paper
 [Link to paper](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 [Link to proposal](proposals/goertler-gaussian-processes.md)
-
-### [A Short Introduction to Model Selection, Kolmogorov Complexity and Minimum Description Length (MDL) (Nannen, 2003)](http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf)
-
-This paper describes an interesting and to me very apealing perspective on model selection. To me model selection lies at the heart of good modelling, both in science and industrie. I think it is therfore of greatest interest to our group to extend the theoretical foundations of model selection. This paper is understandable and covers a wide range of historical aproaches, with a good balance between providing details and a big overview.
-
-Reading time: 40min
-
-Format: paper
-
-[Link to paper](http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf)
-
-[Link to proposal](proposals/nannen-mdl.md)
