@@ -16,7 +16,7 @@ Format: paper
 
 ### [Understanding Deep Learning Requires Rethinking Generalization (Zhang Bengio Hardt Recht Vinyals, 2017)](https://arxiv.org/pdf/1611.03530.pdf)
 
-This paper is a follow up upon th MDL-Principle paper because it extens our discussion of complexity of models but moves beyond any classical models onto deep neural networks. They end with „In this work we presented a simple experimental framework for defining and understanding a notion of effective capacity of machine learning models.“ It is mainly authored by Google but the style is not to tecnical instead it is concise and easy to digest. It won the best paper award at ICLR 2017.
+This paper is a follow up upon the MDL-Principle paper because it extends our discussion of the complexity of models but moves beyond any classical models onto deep neural networks. They end with „In this work we presented a simple experimental framework for defining and understanding a notion of effective capacity of machine learning models.“ Google mainly authors it, but the style is not too technical; instead, it is concise and easy to digest. It won the best paper award at ICLR 2017.
 
 Reading time: 30min
 
