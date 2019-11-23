@@ -1,19 +1,5 @@
 # Proposals
 
-### [More Causal Inference with Graphical Models in R Package pcalg (Kalisch, M., Mächler, M., Colombo, D., Hauser, A., Maathuis, M. H., & Bühlmann, P., 2014)](https://pbil.univ-lyon1.fr/CRAN/web/packages/pcalg/vignettes/pcalgDoc.pdf)
-
-In this package, some Causal Search Algorithms are implemented. They give a short introduction on the Methodology, and then discuss the different algorithms in more detail.
-I would propose reading the first 2 paragraphs (12 pages) for the first meeting, which is the methodological introduction.
-Then, if we want to dive in further, we could read the rest for the next meeting and try it practically.
-
-Reading time: 30min
-
-Format: paper
-
-[Link to paper](https://pbil.univ-lyon1.fr/CRAN/web/packages/pcalg/vignettes/pcalgDoc.pdf)
-
-[Link to proposal](proposals/causal-inference-R-pcalg.md)
-
 ### [Understanding Deep Learning Requires Rethinking Generalization (Zhang Bengio Hardt Recht Vinyals, 2017)](https://arxiv.org/pdf/1611.03530.pdf)
 
 This paper is a follow up upon the MDL-Principle paper because it extends our discussion of the complexity of models but moves beyond any classical models onto deep neural networks. They end with „In this work we presented a simple experimental framework for defining and understanding a notion of effective capacity of machine learning models.“ Google mainly authors it, but the style is not too technical; instead, it is concise and easy to digest. It won the best paper award at ICLR 2017.
@@ -37,3 +23,13 @@ Format: paper
 [Link to paper](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 [Link to proposal](proposals/goertler-gaussian-processes.md)
+
+### [Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction (Makansi, O., Ilg, E., Çiçek, Ö., Brox, T., 2014)](https://lmb.informatik.uni-freiburg.de/Publications/2019/MICB19/)
+
+Reading time: Unsure - depends on the student
+
+Format: paper + supplementary materials
+
+[Link to paper](https://lmb.informatik.uni-freiburg.de/Publications/2019/MICB19/)
+
+[Link to proposal](Makansi-2019-limitations-mdns.md)
