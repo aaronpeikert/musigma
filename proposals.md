@@ -1,16 +1,18 @@
 # Proposals
 
-### [Understanding Deep Learning Requires Rethinking Generalization (Zhang Bengio Hardt Recht Vinyals, 2017)](https://arxiv.org/pdf/1611.03530.pdf)
+### [More Causal Inference with Graphical Models in R Package pcalg (Kalisch, M., Mächler, M., Colombo, D., Hauser, A., Maathuis, M. H., & Bühlmann, P., 2014)](https://pbil.univ-lyon1.fr/CRAN/web/packages/pcalg/vignettes/pcalgDoc.pdf)
 
-This paper is a follow up upon the MDL-Principle paper because it extends our discussion of the complexity of models but moves beyond any classical models onto deep neural networks. They end with „In this work we presented a simple experimental framework for defining and understanding a notion of effective capacity of machine learning models.“ Google mainly authors it, but the style is not too technical; instead, it is concise and easy to digest. It won the best paper award at ICLR 2017.
+In this package, some Causal Search Algorithms are implemented. They give a short introduction on the Methodology, and then discuss the different algorithms in more detail.
+I would propose reading the first 2 paragraphs (12 pages) for the first meeting, which is the methodological introduction.
+Then, if we want to dive in further, we could read the rest for the next meeting and try it practically.
 
 Reading time: 30min
 
 Format: paper
 
-[Link to paper](https://arxiv.org/pdf/1611.03530.pdf)
+[Link to paper](https://pbil.univ-lyon1.fr/CRAN/web/packages/pcalg/vignettes/pcalgDoc.pdf)
 
-[Link to proposal](proposals/deep-learning-generlization.md)
+[Link to proposal](proposals/causal-inference-R-pcalg.md)
 
 ### [A Visual Exploration of Gaussian Processes (Görtler, Kehlbeck, Deussen, 2019)](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
