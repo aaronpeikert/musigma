@@ -3,9 +3,9 @@
 ![logo](https://vectr.com/axmrk/ae6QlyRhy.png?width=280&height=280&select=a7XSU8mK8&quality=1&source=page)
 
 ## Next meeting
-* Date and time: **27.11.2019**, Wednesday. Soft start at 18:30.  
-* Place: DSR  
-* Paper: [Understanding Deep Learning Requires Rethinking Generalization (Zhang, Bengio, Hardt, Recht, Vinyals, 2017)](https://arxiv.org/pdf/1611.03530.pdf)
+* Date and time: **11.12.2019**, Wednesday. Soft start at 18:30.  
+* Place: to be announced.  
+* Paper: to be announced.
 
 This paper is a follow up upon the MDL-Principle paper because it extends our discussion of the complexity of models but moves beyond any classical models onto deep neural networks. They end with „In this work we presented a simple experimental framework for defining and understanding a notion of effective capacity of machine learning models.“ Google mainly authors it, but the style is not too technical; instead, it is concise and easy to digest. It won the best paper award at ICLR 2017.
 
