@@ -3,7 +3,7 @@
 ![logo](https://vectr.com/axmrk/ae6QlyRhy.png?width=280&height=280&select=a7XSU8mK8&quality=1&source=page)
 
 ## Next meeting
-* Date and time: **11.12.2019**, Wednesday. Soft start at 18:30.  
+* Date and time: We are on the winter holidays! The next meeting will take place in January (probably in the 3rd or 4th week).
 * Place: to be announced.  
 * Paper: to be announced.
 
