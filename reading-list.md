@@ -25,6 +25,8 @@ https://errorstatistics.files.wordpress.com/2014/05/fifth-installment-6334-sylla
 - [ ] Schönbrodt, F. D., & Perugini, M. (2013). At what sample size do correlations stabilize?. *Journal of Research in Personality, 47*(5), 609-612. https://epub.ub.uni-muenchen.de/17968/1/oa_Schoenbrodt_17968.pdf
 - [ ] Kretzschmar, A. and Gignac, G. E. (2019). At what sample size do latent variable correlations stabilize?. *Journal of Research in Personality, 80*, pp. 17–22. doi: https://doi.org/10.1016/j.jrp.2019.03.007. Preprint: https://psyarxiv.com/crkd7/download?format=pdf
 - [ ] Schäfer, T., & Schwarz, M. (2019). The meaningfulness of effect sizes in psychological research: Differences between sub-disciplines and the impact of potential biases. *Frontiers in Psychology, 10*, 813.
+- [ ] Efron, B. (1986). Why isn't everyone a Bayesian?. *The American Statistician*, *40*(1), 1-5. http://wpressutexas.net/course2011/EfronWhyEveryone1986.pdf
+- [ ] Efron, B. (1998). R. A. Fisher in the 21st century (Invited paper presented at the 1996 R. A. Fisher Lecture). *Statistical Science*, 95-114. https://projecteuclid.org/download/pdf_1/euclid.ss/1028905930
 
 **Reproducibility & Replication reading list**  
 https://docs.google.com/document/d/1dopRJgO-I8dZBIvtEnftN5wtATGrMseX4mHZM7ePOQw/edit
@@ -37,7 +39,7 @@ http://fitelson.org/confirmation/syllabus.html
 # Aaron
 
 - [x] Friston, K. J. (2012). A free energy principle for biological systems. *Entropy*, *14*(11), 2100-2121.
-- [ ] Nannen, V. (2010). A short introduction to model selection, Kolmogorov complexity and Minimum Description Length (MDL). *arXiv preprint arXiv:1005.2364*. http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf
+- [x] Nannen, V. (2010). A short introduction to model selection, Kolmogorov complexity and Minimum Description Length (MDL). *arXiv preprint arXiv:1005.2364*. http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf
 - [ ] Ashby, W. R. (1991). Principles of the self-organizing system. In *Facets of systems science* (pp. 521-536). Springer, Boston, MA. http://csis.pace.edu/~marchese/CS396x/Computing/Ashby.pdf
 - [ ] Carnap, R. (1936). Testability and meaning. *Philosophy of science, 3*(4), 419-471. https://www.jstor.org/stable/184400
 - [ ] Perlis, A. J. (1982). Special feature: Epigrams on programming. *ACM Sigplan Notices, 17*(9), 7-13. http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html
