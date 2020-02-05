@@ -3,11 +3,13 @@
 ![logo](https://vectr.com/axmrk/ae6QlyRhy.png?width=280&height=280&select=a7XSU8mK8&quality=1&source=page)
 
 ## Next meeting
-* Date and time: end of February. We are preparing a series of meetups to the topics of (1) Reproducibility in statistical science, (2) Operations research, and (3) Causality. Please stay updated, the details will be anounced in the second week of February as latest.
+* Date and time: end of February.
 * Place: to be announced.  
-* Paper: to be announced.
+* Paper: to be announced.  
 
-This paper is a follow up upon the MDL-Principle paper because it extends our discussion of the complexity of models but moves beyond any classical models onto deep neural networks. They end with „In this work we presented a simple experimental framework for defining and understanding a notion of effective capacity of machine learning models.“ Google mainly authors it, but the style is not too technical; instead, it is concise and easy to digest. It won the best paper award at ICLR 2017.
+We are preparing a series of meetups to the topics of (1) Reproducibility in statistical science, (2) Operations research, and (3) Causality. Please stay updated, the details will be anounced in the second week of February as latest.  
+
+Feel free to join our group on meetup.com for further events: [link to the group](https://www.meetup.com/Mu-Sigma/).
 
 ## Mu Sigma
 Mu Sigma is a group of people that are highly interested in the theory and application of statistical science. It has been organized by several students and alumni of Humboldt University since the spring of 2019. We now have members of different experiences and backgrounds, including leading data scientist from several Berlin companies. The main goal of Mu Sigma is to gain a better understanding of statistics by bringing motivated people together, sharing our experience, and working through papers or other sources of information.
