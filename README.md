@@ -3,7 +3,7 @@
 ![logo](https://vectr.com/axmrk/ae6QlyRhy.png?width=280&height=280&select=a7XSU8mK8&quality=1&source=page)
 
 ## Next meeting
-* Date and time: We are on the winter holidays! The next meeting will take place in January (probably in the 3rd or 4th week).
+* Date and time: end of February. We are preparing a series of meetups to the topics of (1) Reproducibility in statistical science, (2) Operations research, and (3) Causality. Please stay updated, the details will be anounced in the second week of February as latest.
 * Place: to be announced.  
 * Paper: to be announced.
 
