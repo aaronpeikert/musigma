@@ -10,7 +10,8 @@
 
 We are preparing a series of meetups to the topics of (1) Reproducibility in statistical science, (2) Operations research, and (3) Causality. Please stay updated, the details will be anounced in the second week of February as latest.  
 
-Feel free to join our group on meetup.com for further events: [link to the group](https://www.meetup.com/Mu-Sigma/).
+Feel free to join our group on meetup.com for further events: https://www.meetup.com/Mu-Sigma/  
+... as well our Telegram-chat with free discussions: https://t.me/mu_sigma
 
 ## Mu Sigma
 Mu Sigma is a group of people that are highly interested in the theory and application of statistical science. It has been organized by several students and alumni of Humboldt University since the spring of 2019. We now have members of different experiences and backgrounds, including leading data scientist from several Berlin companies. The main goal of Mu Sigma is to gain a better understanding of statistics by bringing motivated people together, sharing our experience, and working through papers or other sources of information.
