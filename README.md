@@ -3,9 +3,10 @@
 ![logo](https://vectr.com/axmrk/ae6QlyRhy.png?width=280&height=280&select=a7XSU8mK8&quality=1&source=page)
 
 ## Next meeting
-* Date and time: expected 18.03, starting 19:00
+* Date and time: 18.03, starting 19:00
 * Place: pmOne group, Anna-Louisa-Karsch-Straße 7, 10178 Berlin
-* Paper: this time we conduct our meeting in a workshop format, see our meetup page for further details: https://www.meetup.com/Mu-Sigma/
+* Paper: this time we conduct our meeting in a workshop format, see our meetup page for further details: https://www.meetup.com/Mu-Sigma/events/268809749/  
+**Please note that the due to the workshop and place limitations, we had to restrict our max. participants numbers to 18!**
 
 We are preparing a series of meetups to the topics of (1) Reproducibility in statistical science, (2) Operations research, and (3) Causality. Please stay updated, the details will be anounced in the second week of February as latest.  
 
