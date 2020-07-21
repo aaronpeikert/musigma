@@ -52,9 +52,9 @@ http://dx.doi.org/10.1037/0033-295X.111.4.1061
 
 # Maximilian
 
-- [ ] Meehl, P. E. (1990). Appraising and amending theories: The strategy of Lakatosian defense and two principles that warrant it. *Psychological inquiry, 1*(2), 108-141. https://meehl.dl.umn.edu/sites/g/files/pua1696/f/147appraisingamending.pdf  
-- [x] Nannen, V. (2010). A short introduction to model selection, Kolmogorov complexity and Minimum Description Length (MDL). *arXiv preprint arXiv:1005.2364*. http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf  
-- [ ] Ashby, W.R. (1962, 2004). Principles of the self-organizing system. http://csis.pace.edu/~marchese/CS396x/Computing/Ashby.pdf  
+- [ ] Meehl, P. E. (1990). Appraising and amending theories: The strategy of Lakatosian defense and two principles that warrant it. *Psychological inquiry, 1*(2), 108-141. https://meehl.dl.umn.edu/sites/g/files/pua1696/f/147appraisingamending.pdf
+- [x] Nannen, V. (2010). A short introduction to model selection, Kolmogorov complexity and Minimum Description Length (MDL). *arXiv preprint arXiv:1005.2364*. http://volker.nannen.com/pdf/short_introduction_to_model_selection.pdf
+- [ ] Ashby, W.R. (1962, 2004). Principles of the self-organizing system. http://csis.pace.edu/~marchese/CS396x/Computing/Ashby.pdf
 - [ ] Gelman, A. (2017). The piranha problem in social psychology / behavioral economics: The “take a pill” model of science eats itself. https://statmodeling.stat.columbia.edu/2017/12/15/piranha-problem-social-psychology-behavioral-economics-button-pushing-model-science-eats/   
 *my favourite blog post of Gelman*  
 
